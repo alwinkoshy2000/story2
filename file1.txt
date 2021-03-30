@@ -1,3 +1,4 @@
 first line
 Second line before second commit
 Basis already commited
+Second commit before basis merge
